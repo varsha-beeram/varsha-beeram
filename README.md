@@ -7,29 +7,54 @@
 - 🎓 Final Year B.Tech CSE (Data Science) Student (2022–2026)
 - 💡 Passionate about building scalable web applications & intelligent systems
 - 🔍 Strong in problem-solving and data-driven decision making
-- 🏆 3rd Prize Winner – 24 Hour Hackathon
 - 📍 Warangal, Telangana
 
 ---
 
 ## 💻 Technical Skills
 
+<table>
+<tr>
+<td width="50%">
+
 ### 👩‍💻 Programming
 Java | C | Python
+
+</td>
+
+<td width="50%">
 
 ### 🌐 Web Development
 HTML | CSS | JavaScript | React.js | Next.js | PHP
 
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
 ### 🗄 Database
 MySQL | DBMS
+
+</td>
+
+<td width="50%">
 
 ### 🤖 Data & AI
 Machine Learning | AI | Data Visualization | Tableau
 
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
 ### 🛠 Tools
 Git | GitHub | VS Code | RStudio | Firebase
 
----
+</td>
+</tr>
+</table>
 
 
 ## 📫 Connect With Me
