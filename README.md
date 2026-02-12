@@ -10,38 +10,39 @@
 - 📍 Warangal, Telangana
 
 ---
-
 ## 💻 Technical Skills
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### 👩‍💻 Programming
-Java | C | Python
+<table width="80%">
+<tr>
+<td width="50%" align="left">
+
+### 👩‍💻 Programming  
+Java | C | Python  
 
 </td>
 
-<td width="50%">
+<td width="50%" align="left">
 
-### 🌐 Web Development
-HTML | CSS | JavaScript | React.js | Next.js | PHP
+### 🌐 Web Development  
+HTML | CSS | JavaScript | React.js | Next.js | PHP  
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" align="left">
 
-### 🗄 Database
-MySQL | DBMS
+### 🗄 Database  
+MySQL | DBMS  
 
 </td>
 
-<td width="50%">
+<td width="50%" align="left">
 
-### 🤖 Data & AI
-Machine Learning | AI | Data Visualization | Tableau
+### 🤖 Data & AI  
+Machine Learning | AI | Data Visualization | Tableau  
 
 </td>
 </tr>
@@ -49,12 +50,14 @@ Machine Learning | AI | Data Visualization | Tableau
 <tr>
 <td colspan="2" align="center">
 
-### 🛠 Tools
-Git | GitHub | VS Code | RStudio | Firebase
+### 🛠 Tools  
+Git | GitHub | VS Code | RStudio | Firebase  
 
 </td>
 </tr>
 </table>
+
+</div>
 
 
 ## 📫 Connect With Me
