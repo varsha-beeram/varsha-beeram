@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Varsha Beeram</h1>
+<h3 align="center"> Full Stack Developer | Data Science Enthusiast | Web Developer </h3>
 
-<!--
-**varsha-beeram/varsha-beeram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Final Year B.Tech CSE (Data Science) Student (2022–2026)
+- 💡 Passionate about building scalable web applications & intelligent systems
+- 🔍 Strong in problem-solving and data-driven decision making
+- 🏆 3rd Prize Winner – 24 Hour Hackathon
+- 📍 Warangal, Telangana
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Technical Skills
+
+### 👩‍💻 Programming
+Java | C | Python
+
+### 🌐 Web Development
+HTML | CSS | JavaScript | React.js | Next.js | PHP
+
+### 🗄 Database
+MySQL | DBMS
+
+### 🤖 Data & AI
+Machine Learning | AI | Data Visualization | Tableau
+
+### 🛠 Tools
+Git | GitHub | VS Code | RStudio | Firebase
+
+---
+
+
+## 📫 Connect With Me
+- 📧 Email: varshareddybeeram@gmail.com
+- 🔗 LinkedIn: https://linkedin.com/in/varsha-beeram
+
+---
+
+⭐ “Turning ideas into intelligent, scalable solutions.”
